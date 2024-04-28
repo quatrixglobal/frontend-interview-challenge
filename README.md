@@ -175,8 +175,8 @@ Changes the status of an open task to `in_progress`.
 
 ### Returns
 
-Updated task object with new status: `in_progress`
-Error (if there's a problem with the update)
+- Updated task object with new status: `in_progress`
+- Error (if there's a problem with the update)
 
 ## Stop a task
 
