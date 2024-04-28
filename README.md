@@ -10,7 +10,7 @@ Build a task management application using the provided [Task API](#task-api). Th
 
 Constraints
 
-- **Time Limit:** You have two (2) days to complete this challenge.
+- **Time Limit:** You have three (3) days to complete this challenge.
 - **Version Control:** Use a Git-based repository on GitHub, GitLab, or Bitbucket to host your code.
 - **Documentation:** Include a README file in your repository with:
   - Setup instructions (how to run your application locally)
