@@ -88,7 +88,7 @@ Select **one** (or **two**) of the following:
 ## Tips
 
 - **Planning:** Sketch out your app's components and how data will flow between them before diving into the code. This will streamline your development process.
-- **Documentation:** Reference the Task API documentation provided.
+- **Documentation:** Reference the [Task API](#task-api) documentation provided.
 - **Ask Questions:** We want you to succeed! If anything in the requirements or specifications is unclear, please reach out to your contact for clarification.
 - **Focus and Prioritize:** Get the core functionality working first. Then, if time allows, add refinements and additional features.
 - **Share Your Progress:** Set up a code repository and share the URL with us. This lets us see your approach and provide guidance if needed.
