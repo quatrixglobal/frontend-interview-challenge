@@ -97,6 +97,8 @@ Select **one** (or **two**) of the following:
 
 The Task API is organized around REST. Our API has predictable resource-oriented URLs, accepts JSON-encoded request bodies, returns JSON-encoded responses, and uses standard HTTP response codes, and verbs.
 
+> Please note that the server resets every 30 minutes and all data will be restored to the default state.
+
 ## Attributes
 
 | Name          | Type              | Description                                       |
